@@ -119,12 +119,12 @@ Companion runner for OpenClaudeCode — execute and experiment with Claude Code 
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanAlgoX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAlgoX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanAlgoX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAlgoX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanAlgoX&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=EthanAlgoX&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
