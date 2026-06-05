@@ -119,12 +119,36 @@ Companion runner for OpenClaudeCode — execute and experiment with Claude Code 
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanAlgoX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAlgoX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+
+| 🌟 Stars | 🍴 Forks | 📦 Repos | 👥 Followers | 🔥 Following |
+|:---:|:---:|:---:|:---:|:---:|
+| **342** | **91** | **11** | **28** | **9** |
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EthanAlgoX&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+**🏆 Top Repositories**
+
+| Rank | Repository | ⭐ Stars | 🍴 Forks | 💻 Language |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | 278 | 68 | Python |
+| 2 | [MarketBot](https://github.com/EthanAlgoX/MarketBot) | 64 | 10 | Python |
+| 3 | [LLM-TradeBot-Stocks](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | 2 | 1 | Python |
+| 4 | [OpenClaudeCode](https://github.com/EthanAlgoX/OpenClaudeCode) | 1 | 2 | TypeScript |
+| 5 | [AgentOlympics](https://github.com/EthanAlgoX/AgentOlympics) | 1 | 0 | Python |
+
+</div>
+
+<div align="center">
+
+**💻 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-62%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-12%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Other](https://img.shields.io/badge/Other-5%25-808080?style=for-the-badge)
+
 </div>
 
 ---
