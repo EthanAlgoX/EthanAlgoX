@@ -1,193 +1,139 @@
 <div align="center">
 
-# Ethan
+# 👋 Hi, I'm **Ethan**
 
-### AI × Quantitative Trading · Building intelligent agents that trade, analyze, and decide
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=LLM-TradeBot+%E2%AD%95+278+stars;MarketBot+%E2%AD%95+64+stars;Multi-agent+AI+%C3%97+Real-time+Markets" alt="Typing SVG" />
+### *AI × Quantitative Trading* · Building agents that **trade**, **analyze**, and **decide**
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/EthanAlgoX?style=social)](https://github.com/EthanAlgoX?tab=followers)
-[![Stars](https://img.shields.io/github/stars/EthanAlgoX?style=social)](https://github.com/EthanAlgoX?tab=stars)
+<img src="https://img.shields.io/badge/Focus-AI_×_Quant-36BCF7?style=flat-square&logo=openai&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Open_Source-MIT_|_Apache_|_AGPL-4CAF50?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS"/>
+<img src="https://img.shields.io/badge/Location-Hangzhou,_China-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Collab-FFC107?style=flat-square&logo=handshake&logoColor=white" alt="Status"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 By the Numbers
 
-### ⭐ Flagship — LLM-TradeBot  &nbsp;`278 ⭐ · 68 🍴 · MIT`
+<div align="center">
+
+| ⭐ **342** | 🍴 **91** | 📦 **11** | 👥 **28** |
+|:---:|:---:|:---:|:---:|
+| Total Stars | Total Forks | Public Repos | Followers |
+
+</div>
+
+---
+
+## 🚀 Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🤖 LLM-TradeBot
+**⭐ 278 · 🍴 68 · MIT License**
+
 > A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.
 
-A full-stack **multi-agent quantitative trading framework** where specialized LLM agents collaborate on market analysis, signal generation, and execution. Supports Binance and other exchanges with a `nofx` engine under the hood.
-
 ```python
-# Core idea: let agents debate, then vote
-analyst  -> reads market data
-strategist -> proposes trade ideas
-risk_manager -> vetoes risky moves
-executor -> places orders on Binance
+analyst      → reads market data
+strategist   → proposes trade ideas
+risk_manager → vetoes risky moves
+executor     → places orders on Binance
 ```
 
-**Stack:** `Python` `LLM Agents` `Binance API` `nofx`
-🔗 [github.com/EthanAlgoX/LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot)
+`Python` · `LLM Agents` · `Binance API` · `nofx`
 
----
+[**→ View on GitHub**](https://github.com/EthanAlgoX/LLM-TradeBot)
 
-### 🤖 MarketBot  &nbsp;`64 ⭐ · 10 🍴 · MIT`
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📊 MarketBot
+**⭐ 64 · 🍴 10 · MIT License**
+
 > A finance-customized AI agent for market intelligence, trading analysis, and decision support.
 
-A dedicated **AI agent** for market intelligence — built on the `openclaw` architecture and tuned specifically for financial workflows. Handles analysis, alerts, and decision support through a clean agent interface.
+Built on the `openclaw` architecture, specialized for financial workflows. Powers my own 小红书 account.
 
-**Stack:** `Python` `AI Agents` `Market Intelligence` `openclaw`
-🔗 [github.com/EthanAlgoX/MarketBot](https://github.com/EthanAlgoX/MarketBot)
+`Python` · `AI Agents` · `openclaw` · `Quant`
 
----
+[**→ View on GitHub**](https://github.com/EthanAlgoX/MarketBot)
 
-### 📈 LLM-TradeBot-Stocks  &nbsp;`2 ⭐ · 1 🍴 · AGPL-3.0`
-> LLM-driven US stock trading bot combining LLM market reasoning with quantitative signals.
+</td>
+</tr>
+</table>
 
-The **US-market sibling** of LLM-TradeBot. Combines LLM-based market reasoning with traditional quant signals to generate actionable trade decisions for real-time execution on US equities.
+### 🧰 More Projects
 
-**Stack:** `Python` `LLM Reasoning` `Quant Signals` `US Equities`
-🔗 [github.com/EthanAlgoX/LLM-TradeBot-Stocks](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks)
-
----
-
-### 🏅 AgentOlympics  &nbsp;`1 ⭐ · MIT`
-> The Olympic Games of AI Trading.
-
-A **benchmark & competition framework** for AI trading agents. Multiple LLM-based agents compete in the same market, with a leaderboard ranking them on PnL, Sharpe, and risk-adjusted returns.
-
-**Stack:** `Python` `Multi-Agent` `Benchmark`
-🔗 [github.com/EthanAlgoX/AgentOlympics](https://github.com/EthanAlgoX/AgentOlympics)
+|  | Project | Description | ⭐ | Stack |
+|:---:|:---|:---|:---:|:---|
+| 📈 | [**LLM-TradeBot-Stocks**](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | LLM-driven US stock trading bot | 2 | `Python` `AGPL` |
+| 🏅 | [**AgentOlympics**](https://github.com/EthanAlgoX/AgentOlympics) | The Olympic Games of AI Trading | 1 | `Python` `MIT` |
+| 📡 | [**AlphaRadar**](https://github.com/EthanAlgoX/AlphaRadar) | Alpha signal detection radar | — | `Python` `Apache` |
+| ⚡ | [**open-code-now**](https://github.com/EthanAlgoX/open-code-now) | One-click OpenCode launcher | 2 | `Shell` `Apache` |
+| 🧠 | [**OpenClaudeCode**](https://github.com/EthanAlgoX/OpenClaudeCode) | Claude Code 源码深度解读 | 1 | `TS` `MIT` |
+| ▶️ | [**RunClaudeCode**](https://github.com/EthanAlgoX/RunClaudeCode) | Claude Code workflow runner | — | `TypeScript` |
 
 ---
 
-### 📡 AlphaRadar  &nbsp;`Apache-2.0`
-A Python-based radar for **alpha signal detection** — surface trading opportunities from noisy market data.
+## 🛠 Tech Arsenal
 
-**Stack:** `Python` `Signals` `Market Data`
-🔗 [github.com/EthanAlgoX/AlphaRadar](https://github.com/EthanAlgoX/AlphaRadar)
+**💻 Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 🛠 Tools & Dev
+**🤖 ML / Data**
 
-### ⚡ open-code-now  &nbsp;`2 ⭐ · Apache-2.0`
-> The World's Fastest OpenCode Launcher — start OpenCode from the Dock or any folder, one click.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-A minimal **launcher utility** for OpenCode. Designed for developers who want zero-friction access to OpenCode from anywhere on macOS.
+**⚙️ Tools & Platforms**
 
-**Stack:** `Shell` `macOS` `Launcher`
-🔗 [github.com/EthanAlgoX/open-code-now](https://github.com/EthanAlgoX/open-code-now)
-
----
-
-### 🧠 OpenClaudeCode  &nbsp;`1 ⭐ · 2 🍴 · MIT`
-> Claude Code 源码及深度解读 — Source code walkthroughs and deep dives into Claude Code.
-
-Annotated source code reading notes for **Claude Code**, with deep explanations of its internal architecture. Great reference for anyone learning how modern coding agents are built.
-
-**Stack:** `TypeScript` `Claude Code` `Source Reading`
-🔗 [github.com/EthanAlgoX/OpenClaudeCode](https://github.com/EthanAlgoX/OpenClaudeCode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### ▶️ RunClaudeCode  &nbsp;`TypeScript`
-Companion runner for OpenClaudeCode — execute and experiment with Claude Code workflows.
-
-🔗 [github.com/EthanAlgoX/RunClaudeCode](https://github.com/EthanAlgoX/RunClaudeCode)
-
----
-
-## 🧱 All Repositories at a Glance
+## 📱 Also Find Me On
 
 <div align="center">
 
-| Category | Projects |
-|---|---|
-| 🤖 **AI Trading** | `LLM-TradeBot` · `MarketBot` · `LLM-TradeBot-Stocks` · `AgentOlympics` · `AlphaRadar` |
-| 🛠 **Developer Tools** | `open-code-now` · `OpenClaudeCode` · `RunClaudeCode` |
-| 🍴 **Forks** | `daily_stock_analysis` |
+[![小红书](https://img.shields.io/badge/小红书-2,655_赞藏-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/UPFxx09JrO)
+[![X](https://img.shields.io/badge/X-@ethan__han999-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethan_han999)
+[![Gmail](https://img.shields.io/badge/Gmail-im.hanyx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@EthanAlgoX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthanAlgoX)
 
 </div>
 
----
+**🔥 Latest from 小红书 · [@Ethan_Han](https://xhslink.com/m/UPFxx09JrO)**
 
-## 📊 Stats
-
-<div align="center">
-
-| 🌟 Stars | 🍴 Forks | 📦 Repos | 👥 Followers | 🔥 Following |
-|:---:|:---:|:---:|:---:|:---:|
-| **342** | **91** | **11** | **28** | **9** |
-
-</div>
-
-<div align="center">
-
-**🏆 Top Repositories**
-
-| Rank | Repository | ⭐ Stars | 🍴 Forks | 💻 Language |
-|:---:|:---|:---:|:---:|:---:|
-| 1 | [LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot) | 278 | 68 | Python |
-| 2 | [MarketBot](https://github.com/EthanAlgoX/MarketBot) | 64 | 10 | Python |
-| 3 | [LLM-TradeBot-Stocks](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | 2 | 1 | Python |
-| 4 | [OpenClaudeCode](https://github.com/EthanAlgoX/OpenClaudeCode) | 1 | 2 | TypeScript |
-| 5 | [AgentOlympics](https://github.com/EthanAlgoX/AgentOlympics) | 1 | 0 | Python |
-
-</div>
-
-<div align="center">
-
-**💻 Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-62%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-21%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-12%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Other](https://img.shields.io/badge/Other-5%25-808080?style=for-the-badge)
-
-</div>
-
----
-
-## 📕 Latest from 小红书
-
-<div align="center">
-
-🎉 累计 **2,655** 赞与收藏 · 分享 AI 交易、量化、MarketBot 实操
-
-</div>
-
-| 📌 | 笔记 |
-|:---:|:---|
-| 🔥 | [2026：我当下的 Vibe Coding 工作流](https://xhslink.com/m/UPFxx09JrO) |
-| 🤖 | [这个账号由 MarketBot 接管啦！](https://xhslink.com/m/UPFxx09JrO) |
-| 💻 | [Claude Code 源码及解读](https://xhslink.com/m/UPFxx09JrO) |
-| 🐦 | [MarketBot + Twitter CLI](https://xhslink.com/m/UPFxx09JrO) |
-| 📕 | [MarketBot + 小红书 CLI](https://xhslink.com/m/UPFxx09JrO) |
-| 📊 | [今日市场机会扫描 · 美伊冲突+特朗普关税双击](https://xhslink.com/m/UPFxx09JrO) |
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethan_han999)
-[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/UPFxx09JrO)
-
-</div>
+- ✨ `2026` 我当下的 Vibe Coding 工作流
+- 💻 Claude Code 源码及深度解读
+- 🤖 MarketBot 已接入 Twitter / 小红书 CLI
+- 📊 今日市场机会扫描 · 美伊冲突 + 特朗普关税双击
 
 ---
 
 <div align="center">
 
-💬 *"The market is a voting machine in the short run and a weighing machine in the long run."*
+<sub>💡 *In God we trust, all others must bring data.* — W. Edwards Deming</sub>
 
-<img src="https://komarev.com/ghpvc/?username=EthanAlgoX&color=36BCF7&style=flat-square" alt="Profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=EthanAlgoX&color=36BCF7&style=flat-square" alt="views"/>
 
 </div>
