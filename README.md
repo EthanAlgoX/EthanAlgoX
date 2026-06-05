@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ethan · AI × Quantitative Trading
+# Ethan · 阿里大模型算法工程师
 
-### Building intelligent agents that trade, analyze, and decide
+### AI × Quantitative Trading · Building intelligent agents that trade, analyze, and decide
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=LLM-TradeBot+%E2%AD%95+278+stars;MarketBot+%E2%AD%95+64+stars;Multi-agent+AI+%C3%97+Real-time+Markets" alt="Typing SVG" />
 
@@ -153,13 +153,32 @@ Companion runner for OpenClaudeCode — execute and experiment with Claude Code 
 
 ---
 
+## 📕 Latest from 小红书
+
+<div align="center">
+
+🎉 累计 **2,655** 赞与收藏 · 分享 AI 交易、量化、MarketBot 实操
+
+</div>
+
+| 📌 | 笔记 |
+|:---:|:---|
+| 🔥 | [2026：我当下的 Vibe Coding 工作流](https://xhslink.com/m/UPFxx09JrO) |
+| 🤖 | [这个账号由 MarketBot 接管啦！](https://xhslink.com/m/UPFxx09JrO) |
+| 💻 | [Claude Code 源码及解读](https://xhslink.com/m/UPFxx09JrO) |
+| 🐦 | [MarketBot + Twitter CLI](https://xhslink.com/m/UPFxx09JrO) |
+| 📕 | [MarketBot + 小红书 CLI](https://xhslink.com/m/UPFxx09JrO) |
+| 📊 | [今日市场机会扫描 · 美伊冲突+特朗普关税双击](https://xhslink.com/m/UPFxx09JrO) |
+
+---
+
 ## 🤝 Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethan_han999)
-[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/ethan_han)
+[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/UPFxx09JrO)
 
 </div>
 
