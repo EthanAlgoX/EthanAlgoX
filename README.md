@@ -1,49 +1,122 @@
 <div align="center">
 
-# Hi, I'm Ethan 👋
+# Ethan · AI × Quantitative Trading
 
-### AI/ML Engineer · Algorithm Enthusiast · Quantitative Explorer
+### Building intelligent agents that trade, analyze, and decide
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+code;Exploring+the+frontier+of+ML+%26+optimization;Turning+data+into+decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=LLM-TradeBot+%E2%AD%95+278+stars;MarketBot+%E2%AD%95+64+stars;Multi-agent+AI+%C3%97+Real-time+Markets" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/EthanAlgoX?style=social)](https://github.com/EthanAlgoX?tab=followers)
+[![Stars](https://img.shields.io/github/stars/EthanAlgoX?style=social)](https://github.com/EthanAlgoX?tab=stars)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 Featured Projects
 
-- 🔭 Currently focused on **Machine Learning**, **Deep Learning**, and **Algorithmic Trading**
-- 🌱 Exploring **LLMs**, **Reinforcement Learning**, and **Time-Series Forecasting**
-- 💡 Passionate about clean math, efficient code, and reproducible research
-- 🎯 Mission: Build AI that **thinks**, **learns**, and **solves real problems**
-- ⚡ Fun fact: I believe a well-tuned hyperparameter beats a thousand lines of debugging
+### ⭐ Flagship — LLM-TradeBot  &nbsp;`278 ⭐ · 68 🍴 · MIT`
+> A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.
 
----
+A full-stack **multi-agent quantitative trading framework** where specialized LLM agents collaborate on market analysis, signal generation, and execution. Supports Binance and other exchanges with a `nofx` engine under the hood.
 
-## 🛠️ Tech Stack
+```python
+# Core idea: let agents debate, then vote
+analyst  -> reads market data
+strategist -> proposes trade ideas
+risk_manager -> vetoes risky moves
+executor -> places orders on Binance
+```
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**ML / Data**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Stack:** `Python` `LLM Agents` `Binance API` `nofx`
+🔗 [github.com/EthanAlgoX/LLM-TradeBot](https://github.com/EthanAlgoX/LLM-TradeBot)
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 MarketBot  &nbsp;`64 ⭐ · 10 🍴 · MIT`
+> A finance-customized AI agent for market intelligence, trading analysis, and decision support.
+
+A dedicated **AI agent** for market intelligence — built on the `openclaw` architecture and tuned specifically for financial workflows. Handles analysis, alerts, and decision support through a clean agent interface.
+
+**Stack:** `Python` `AI Agents` `Market Intelligence` `openclaw`
+🔗 [github.com/EthanAlgoX/MarketBot](https://github.com/EthanAlgoX/MarketBot)
+
+---
+
+### 📈 LLM-TradeBot-Stocks  &nbsp;`2 ⭐ · 1 🍴 · AGPL-3.0`
+> LLM-driven US stock trading bot combining LLM market reasoning with quantitative signals.
+
+The **US-market sibling** of LLM-TradeBot. Combines LLM-based market reasoning with traditional quant signals to generate actionable trade decisions for real-time execution on US equities.
+
+**Stack:** `Python` `LLM Reasoning` `Quant Signals` `US Equities`
+🔗 [github.com/EthanAlgoX/LLM-TradeBot-Stocks](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks)
+
+---
+
+### 🏅 AgentOlympics  &nbsp;`1 ⭐ · MIT`
+> The Olympic Games of AI Trading.
+
+A **benchmark & competition framework** for AI trading agents. Multiple LLM-based agents compete in the same market, with a leaderboard ranking them on PnL, Sharpe, and risk-adjusted returns.
+
+**Stack:** `Python` `Multi-Agent` `Benchmark`
+🔗 [github.com/EthanAlgoX/AgentOlympics](https://github.com/EthanAlgoX/AgentOlympics)
+
+---
+
+### 📡 AlphaRadar  &nbsp;`Apache-2.0`
+A Python-based radar for **alpha signal detection** — surface trading opportunities from noisy market data.
+
+**Stack:** `Python` `Signals` `Market Data`
+🔗 [github.com/EthanAlgoX/AlphaRadar](https://github.com/EthanAlgoX/AlphaRadar)
+
+---
+
+## 🛠 Tools & Dev
+
+### ⚡ open-code-now  &nbsp;`2 ⭐ · Apache-2.0`
+> The World's Fastest OpenCode Launcher — start OpenCode from the Dock or any folder, one click.
+
+A minimal **launcher utility** for OpenCode. Designed for developers who want zero-friction access to OpenCode from anywhere on macOS.
+
+**Stack:** `Shell` `macOS` `Launcher`
+🔗 [github.com/EthanAlgoX/open-code-now](https://github.com/EthanAlgoX/open-code-now)
+
+---
+
+### 🧠 OpenClaudeCode  &nbsp;`1 ⭐ · 2 🍴 · MIT`
+> Claude Code 源码及深度解读 — Source code walkthroughs and deep dives into Claude Code.
+
+Annotated source code reading notes for **Claude Code**, with deep explanations of its internal architecture. Great reference for anyone learning how modern coding agents are built.
+
+**Stack:** `TypeScript` `Claude Code` `Source Reading`
+🔗 [github.com/EthanAlgoX/OpenClaudeCode](https://github.com/EthanAlgoX/OpenClaudeCode)
+
+---
+
+### ▶️ RunClaudeCode  &nbsp;`TypeScript`
+Companion runner for OpenClaudeCode — execute and experiment with Claude Code workflows.
+
+🔗 [github.com/EthanAlgoX/RunClaudeCode](https://github.com/EthanAlgoX/RunClaudeCode)
+
+---
+
+## 🧱 All Repositories at a Glance
+
+<div align="center">
+
+| Category | Projects |
+|---|---|
+| 🤖 **AI Trading** | `LLM-TradeBot` · `MarketBot` · `LLM-TradeBot-Stocks` · `AgentOlympics` · `AlphaRadar` |
+| 🛠 **Developer Tools** | `open-code-now` · `OpenClaudeCode` · `RunClaudeCode` |
+| 🍴 **Forks** | `daily_stock_analysis` |
+
+</div>
+
+---
+
+## 📊 Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=EthanAlgoX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -51,31 +124,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanAlgoX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EthanAlgoX&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanAlgoX&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **AI Trading Bot** | Algorithmic trading with ML signals | Python, PyTorch |
-| 📈 **Dynamic Pricing** | Reinforcement learning price optimization | Python, RLlib |
-| 🔍 **Search Engine** | TF-IDF + BM25 hybrid retrieval | Python, NLP |
-| 🧬 **Genomic ML** | DNA sequence classification with CNN | PyTorch, BioPython |
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -91,10 +145,8 @@
 
 <div align="center">
 
-### 💬 "In God we trust, all others must bring data." — W. Edwards Deming
+💬 *"The market is a voting machine in the short run and a weighing machine in the long run."*
 
 <img src="https://komarev.com/ghpvc/?username=EthanAlgoX&color=36BCF7&style=flat-square" alt="Profile views" />
-
-⭐️ From [EthanAlgoX](https://github.com/EthanAlgoX)
 
 </div>
