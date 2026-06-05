@@ -157,11 +157,9 @@ Companion runner for OpenClaudeCode — execute and experiment with Claude Code 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EthanAlgoX)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EthanAlgoX)
-[![知乎](https://img.shields.io/badge/-知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://zhihu.com/people/EthanAlgoX)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethan_han999)
+[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/ethan_han)
 
 </div>
 
