@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ethan · 阿里大模型算法工程师
+# Ethan
 
 ### AI × Quantitative Trading · Building intelligent agents that trade, analyze, and decide
 
