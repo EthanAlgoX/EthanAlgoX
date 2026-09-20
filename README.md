@@ -19,9 +19,11 @@
 
 <div align="center">
 
-| ⭐ **342** | 🍴 **91** | 📦 **11** | 👥 **28** |
+| ⭐ **401** | 🍴 **96** | 📦 **11** | 👥 **33** |
 |:---:|:---:|:---:|:---:|
 | Total Stars | Total Forks | Public Repos | Followers |
+
+<sub>GitHub statistics checked on 2026-09-20 (UTC). Totals include all public repositories; counts are a snapshot.</sub>
 
 </div>
 
@@ -33,27 +35,24 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🤖 LLM-TradeBot
-**⭐ 278 · 🍴 68 · MIT License**
+### 📈 AIStock
+**⭐ 327 · 🍴 86 · MIT License**
 
-> A multi-agent AI trading system using LLMs to optimize strategies and adapt to market conditions in real-time.
+> Empower every stock researcher with AI, so one person can research with the capabilities of a team.
 
-```python
-analyst      → reads market data
-strategist   → proposes trade ideas
-risk_manager → vetoes risky moves
-executor     → places orders on Binance
-```
+Research mainland China, Hong Kong, and US equities with market data, news, AI analysis, and expert perspectives. Compare ideas, screen stocks, and test strategies with simulated funds.
 
-`Python` · `LLM Agents` · `Binance API` · `nofx`
+`Python` · `React` · `LLM Agents` · `Paper Trading`
 
-[**→ View on GitHub**](https://github.com/EthanAlgoX/LLM-TradeBot)
+[**→ View on GitHub**](https://github.com/EthanAlgoX/AIStock) · [**Try online**](https://myaistock.top/)
+
+<sub>Registration requires an invitation code. [Request one by email](mailto:im.hanyx@gmail.com?subject=AI%20Stock%20invitation%20code%20request).</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 ### 📊 MarketBot
-**⭐ 64 · 🍴 10 · MIT License**
+**⭐ 65 · 🍴 9 · MIT License**
 
 > A finance-customized AI agent for market intelligence, trading analysis, and decision support.
 
@@ -69,14 +68,16 @@ Built on the `openclaw` architecture, specialized for financial workflows. Power
 
 ### 🧰 More Projects
 
-|  | Project | Description | ⭐ | Stack |
+| | Project | Description | ⭐ | Stack |
 |:---:|:---|:---|:---:|:---|
-| 📈 | [**LLM-TradeBot-Stocks**](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | LLM-driven US stock trading bot | 2 | `Python` `AGPL` |
-| 🏅 | [**AgentOlympics**](https://github.com/EthanAlgoX/AgentOlympics) | The Olympic Games of AI Trading | 1 | `Python` `MIT` |
-| 📡 | [**AlphaRadar**](https://github.com/EthanAlgoX/AlphaRadar) | Alpha signal detection radar | — | `Python` `Apache` |
-| ⚡ | [**open-code-now**](https://github.com/EthanAlgoX/open-code-now) | One-click OpenCode launcher | 2 | `Shell` `Apache` |
-| 🧠 | [**OpenClaudeCode**](https://github.com/EthanAlgoX/OpenClaudeCode) | Claude Code 源码深度解读 | 1 | `TS` `MIT` |
-| ▶️ | [**RunClaudeCode**](https://github.com/EthanAlgoX/RunClaudeCode) | Claude Code workflow runner | — | `TypeScript` |
+| 🧠 | [**LocalJev**](https://github.com/EthanAlgoX/LocalJev) | Turn natural-language rules into structured decisions with local models. | 1 | `Python` |
+| 📈 | [**jev-trading**](https://github.com/EthanAlgoX/jev-trading) | Produce traceable stock decision signals from AIStock data; no order execution. | 1 | `TypeScript` |
+| 📈 | [**LLM-TradeBot-Stocks**](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | LLM-driven US stock trading bot. | 2 | `Python` |
+| 🏅 | [**AgentOlympics**](https://github.com/EthanAlgoX/AgentOlympics) | The Olympic Games of AI Trading. | 1 | `Python` |
+| 📡 | [**AlphaRadar**](https://github.com/EthanAlgoX/AlphaRadar) | Alpha signal detection radar. | 0 | `Python` |
+| ⚡ | [**open-code-now**](https://github.com/EthanAlgoX/open-code-now) | One-click OpenCode launcher. | 3 | `Shell` |
+| ⏱️ | [**ai-time-calibrator**](https://github.com/EthanAlgoX/ai-time-calibrator) | Calibrate development estimates for AI-assisted workflows. | 1 | `Python` |
+| 🎮 | [**A-ShareSenseTrainer**](https://github.com/EthanAlgoX/A-ShareSenseTrainer) | A stock-market training game using real historical candlestick data. | 0 | `JavaScript` |
 
 ---
 
@@ -86,7 +87,7 @@ Built on the `openclaw` architecture, specialized for financial workflows. Power
 
 [![小红书](https://img.shields.io/badge/小红书-2,655_赞藏-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/UPFxx09JrO)
 [![X](https://img.shields.io/badge/X-@ethan__han999-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ethan_han999)
-[![Gmail](https://img.shields.io/badge/Gmail-im.hanyx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.hanyx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@EthanAlgoX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthanAlgoX)
 
 </div>
