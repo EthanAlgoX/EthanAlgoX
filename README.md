@@ -40,7 +40,7 @@
 
 > Empower every stock researcher with AI, so one person can research with the capabilities of a team.
 
-Research mainland China, Hong Kong, and US equities with market data, news, AI analysis, and expert perspectives. Compare ideas, screen stocks, and test strategies with simulated funds.
+AI-powered research and paper trading for US stocks, Hong Kong stocks, and crypto spot markets. Bring together market data, news, AI analysis, and expert perspectives to compare ideas, screen assets, and test strategies with simulated funds.
 
 `Python` · `React` · `LLM Agents` · `Paper Trading`
 
