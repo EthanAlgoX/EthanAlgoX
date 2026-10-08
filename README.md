@@ -19,11 +19,11 @@
 
 <div align="center">
 
-| ⭐ **401** | 🍴 **96** | 📦 **11** | 👥 **33** |
+| ⭐ **424** | 🍴 **99** | 📦 **15** | 👥 **32** |
 |:---:|:---:|:---:|:---:|
 | Total Stars | Total Forks | Public Repos | Followers |
 
-<sub>GitHub statistics checked on 2026-09-20 (UTC). Totals include all public repositories; counts are a snapshot.</sub>
+<sub>GitHub statistics checked on 2026-10-08 (Asia/Shanghai). Totals include all public repositories; counts are a snapshot.</sub>
 
 </div>
 
@@ -36,7 +36,7 @@
 <td width="50%" valign="top" align="center">
 
 ### 📈 AIStock
-**⭐ 327 · 🍴 86 · MIT License**
+**⭐ 344 · 🍴 88 · MIT License**
 
 > Empower every stock researcher with AI, so one person can research with the capabilities of a team.
 
@@ -52,7 +52,7 @@ Research mainland China, Hong Kong, and US equities with market data, news, AI a
 <td width="50%" valign="top" align="center">
 
 ### 📊 MarketBot
-**⭐ 65 · 🍴 9 · MIT License**
+**⭐ 65 · 🍴 10 · MIT License**
 
 > A finance-customized AI agent for market intelligence, trading analysis, and decision support.
 
@@ -68,15 +68,21 @@ Built on the `openclaw` architecture, specialized for financial workflows. Power
 
 ### 🧰 More Projects
 
+<sub>Current focus projects first; each group is sorted by latest code push.</sub>
+
 | | Project | Description | ⭐ | Stack |
 |:---:|:---|:---|:---:|:---|
+| ✍️ | [**creator-platform**](https://github.com/EthanAlgoX/creator-platform) | Adapt one draft for multiple platforms, review content, and manage publishing. | 1 | `TypeScript` |
+| 📰 | [**market-radar**](https://github.com/EthanAlgoX/market-radar) | Research news and social feeds alongside market data and signals. | 1 | `Python` |
+| 🔮 | [**polymarket-lab**](https://github.com/EthanAlgoX/polymarket-lab) | Explore Polymarket public data, outcome order books, and complete-set costs. | 1 | `Python` |
+| 📈 | [**jev-trading**](https://github.com/EthanAlgoX/jev-trading) | Produce traceable stock decision signals from AIStock data; no order execution. | 3 | `TypeScript` |
+| 🧪 | [**QuantEvo-Skill**](https://github.com/EthanAlgoX/QuantEvo-Skill) | Backtest strategies and monitor paper accounts with Codex and Claude Code. | 1 | `Python` |
 | 🧠 | [**LocalJev**](https://github.com/EthanAlgoX/LocalJev) | Turn natural-language rules into structured decisions with local models. | 1 | `Python` |
-| 📈 | [**jev-trading**](https://github.com/EthanAlgoX/jev-trading) | Produce traceable stock decision signals from AIStock data; no order execution. | 1 | `TypeScript` |
+| ⏱️ | [**ai-time-calibrator**](https://github.com/EthanAlgoX/ai-time-calibrator) | Calibrate development estimates for AI-assisted workflows. | 1 | `Python` |
+| 📡 | [**AlphaRadar**](https://github.com/EthanAlgoX/AlphaRadar) | Alpha signal detection radar. | 0 | `Python` |
 | 📈 | [**LLM-TradeBot-Stocks**](https://github.com/EthanAlgoX/LLM-TradeBot-Stocks) | LLM-driven US stock trading bot. | 2 | `Python` |
 | 🏅 | [**AgentOlympics**](https://github.com/EthanAlgoX/AgentOlympics) | The Olympic Games of AI Trading. | 1 | `Python` |
-| 📡 | [**AlphaRadar**](https://github.com/EthanAlgoX/AlphaRadar) | Alpha signal detection radar. | 0 | `Python` |
 | ⚡ | [**open-code-now**](https://github.com/EthanAlgoX/open-code-now) | One-click OpenCode launcher. | 3 | `Shell` |
-| ⏱️ | [**ai-time-calibrator**](https://github.com/EthanAlgoX/ai-time-calibrator) | Calibrate development estimates for AI-assisted workflows. | 1 | `Python` |
 | 🎮 | [**A-ShareSenseTrainer**](https://github.com/EthanAlgoX/A-ShareSenseTrainer) | A stock-market training game using real historical candlestick data. | 0 | `JavaScript` |
 
 ---
